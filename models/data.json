@@ -1,0 +1,32 @@
+[
+  {"name":"fry",
+    "scopeModel":"{{fry}}",
+    "model": "fry",
+    "url":"images/fry.png",
+    "message": "NOT SURE IF TROLLING OR JUST STUPID"
+  },
+  {"name":"Grumpy Cat",
+    "scopeModel": "{{gCat}}",
+    "model": "gCat",
+    "url":"images/grumpycat.jpg",
+    "message": "I WAS HAPPY ONCE... IT WAS AWFUL"
+  },
+  {"name":"Hipster Ariel",
+    "scopeModel": "{{hAriel}}",
+    "model": "hAriel",
+    "url":"images/Hipster-Ariel.jpg",
+    "message": "I NEEEEED MY PSL, NOW"
+  },
+  {"name":"Honey Badger",
+    "scopeModel": "{{hBadger}}",
+    "model": "hBadger",
+    "url":"images/honeybadger.jpg",
+    "message": "HONEY BADGER DON'T CARE. NEITHER DO EPSILON"
+  },
+  {"name":"willywonka",
+    "scopeModel": "{{wWonka}}",
+    "model": "wWonka",
+    "url":"images/willywonka.jpg",
+    "message": "DO GO ON"
+  }
+]
